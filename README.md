@@ -1,8 +1,19 @@
 Olá! Me chamo Poliana! Bem-vindo(a)! 👋
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poliana89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+
+
 Analista de Dados pela EBAC - Escola Britânica de Artes Criativas & Tecnologia.
 
 Conhecimentos em SQL, Python, Power BI, Excel.
+
+
+
 
 <div> 
   <a href = "mailto:polianafreitasbatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
