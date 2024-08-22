@@ -6,11 +6,14 @@ Olá! Me chamo Poliana! Bem-vindo(a)! 👋
 
 ###
 
+•	📊 Analista de Dados pela EBAC - Escola Britânica de Artes Criativas & Tecnologia. 
 
+• 🚀 Conhecimentos em SQL, Python, Power BI, Excel.
 
-Analista de Dados pela EBAC - Escola Britânica de Artes Criativas & Tecnologia.
+•	🎓 Graduada em Ciências da Computação, com experiência á mais de 8 anos na área de TI.
 
-Conhecimentos em SQL, Python, Power BI, Excel.
+•	📚 Estou em transição de carreira, para área de dados!
+
 
 
 
